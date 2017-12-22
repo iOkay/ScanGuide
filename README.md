@@ -1,5 +1,5 @@
 # ScanGuide
-Catalog for what I starred or watching
+Catalog for what I starred and watching
 ## iOS
 
   ### ObjC
