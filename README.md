@@ -11,6 +11,7 @@ Catalog for what I starred and watching
   1. Cards brings to XCode the card views seen in the new iOS XI Appstore. https://github.com/PaoloCuscela/Cards
   2. Notification bar in-app. https://github.com/hallelujahbaby/CFNotify
   3. The modern video player for macOS. https://github.com/lhc70000/iina
+  4. Elegant transition library for iOS & tvOS.(Magic Move) https://github.com/lkzhao/Hero
 ## Ruby
   1. fastlane https://github.com/fastlane/fastlane/
 
