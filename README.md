@@ -12,6 +12,7 @@ Catalog for what I starred and watching
   2. Notification bar in-app. https://github.com/hallelujahbaby/CFNotify
   3. The modern video player for macOS. https://github.com/lhc70000/iina
   4. Elegant transition library for iOS & tvOS.(Magic Move) https://github.com/lkzhao/Hero
+  5. An elegant way to show users that something is happening and also prepare them to which contents he is waiting https://github.com/Juanpe/SkeletonView
 ## Ruby
   1. fastlane https://github.com/fastlane/fastlane/
 
